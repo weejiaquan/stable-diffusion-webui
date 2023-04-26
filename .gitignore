@@ -33,3 +33,11 @@ notification.mp3
 /test/stdout.txt
 /test/stderr.txt
 /cache.json
+prompts.txt
+scripts/lbwpresets.txt
+startSB_withConda.bat
+webui-user.bat
+webui-user.bat
+webui-user.bat
+webui-user.bat
+3.0.0
